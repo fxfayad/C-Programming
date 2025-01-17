@@ -1,11 +1,9 @@
 
-#include <stdio.h>
-
-int main()
-{
+    #include<stdio.h>
+    int main()
+    {
     int phy, chem, bio, math, comp;
     float per;
-
     printf("Enter five subjects marks: ");
     scanf("%d %d %d %d %d", &phy, &chem, &bio, &math, &comp);
 
@@ -40,4 +38,5 @@ int main()
     }
 
     return 0;
-}
+    }
+
