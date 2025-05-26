@@ -1,4 +1,4 @@
-*Code for check leap year*
+//*Code for check leap year*
 
 
     #include<stdio.h>
